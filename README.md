@@ -1,5 +1,5 @@
 # HousePrices
-Predict sales prices and practice feature engineering
+Predicting sales prices and practicing feature engineering
 
 The House Price project, taken from Kaggle, is about creating a model to predict house prices. With 79 features describing so many aspects of residential homes in Ames, Iowa, this competition is to predict the final price of each home in the test set.
 
